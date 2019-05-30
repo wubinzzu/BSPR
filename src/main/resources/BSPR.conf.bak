@@ -1,4 +1,4 @@
-dataset.ratings.wins=INS/ratings_Office_Productsbyuser.txt
+dataset.ratings.wins=INS/ratings_Office_Productsbyuser10.txt
 dataset.related.wins=INS/meta_Office_Productsbought_together.json
 
 recommender=bspr
