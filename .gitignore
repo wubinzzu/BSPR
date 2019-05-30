@@ -1,0 +1,11 @@
+/bin
+/target
+/Results
+/debug.log
+/log4j.log
+/results.txt
+/release
+/doc/
+/build/
+*/.settings/*
+.project
