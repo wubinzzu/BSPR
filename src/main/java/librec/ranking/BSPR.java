@@ -99,7 +99,7 @@ public class BSPR extends IterativeRecommender {
 				cmg= g(-xuij);
 				
 				cmg=cmg*l_loss;
-				double vals = -Math.log(g(xuij));//Note I use logistic loss as a surrogate for other losses
+				double vals = -xuij;
 				loss += vals;
 
 				for (int f = 0; f < numFactors; f++) {
